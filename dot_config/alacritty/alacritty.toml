@@ -12,4 +12,4 @@
     bold = { family = "GeistMono Nerd Font Mono", style = "Bold" }
     italic = { family = "GeistMono Nerd Font Mono", style = "Italic" }
     bold_italic = { family = "GeistMono Nerd Font Mono", style = "Bold Italic" }
-    size = 12
+    size = 11
